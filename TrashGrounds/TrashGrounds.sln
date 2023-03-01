@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashGrounds.Api", "TrashGrounds.Api\TrashGrounds.Api.csproj", "{FA94AFA7-E171-409F-AC69-9CCBB34575E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashGrounds.Core", "TrashGrounds.Core\TrashGrounds.Core.csproj", "{A5A224AF-95E3-45CE-9395-A82EC99CDA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashGrounds.Data", "TrashGrounds.Data\TrashGrounds.Data.csproj", "{0C185775-A4CB-4DB2-9E7C-1366FA2701D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA94AFA7-E171-409F-AC69-9CCBB34575E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA94AFA7-E171-409F-AC69-9CCBB34575E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA94AFA7-E171-409F-AC69-9CCBB34575E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA94AFA7-E171-409F-AC69-9CCBB34575E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A224AF-95E3-45CE-9395-A82EC99CDA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A224AF-95E3-45CE-9395-A82EC99CDA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A224AF-95E3-45CE-9395-A82EC99CDA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A224AF-95E3-45CE-9395-A82EC99CDA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C185775-A4CB-4DB2-9E7C-1366FA2701D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C185775-A4CB-4DB2-9E7C-1366FA2701D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C185775-A4CB-4DB2-9E7C-1366FA2701D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C185775-A4CB-4DB2-9E7C-1366FA2701D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
